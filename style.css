@@ -1,8 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap');
+
+
 body {
 	color: deeppink;
 	background-color:blanchedalmond;
+	font-family:  font-family: "Mystery Quest", system-ui;;
 }
 
 a {
 	color: firebrick;
+}
+
+h1 {
+	font-family: Verdana, Arial Black;
 }
