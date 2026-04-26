@@ -14,7 +14,8 @@ a {
 
 h1 {
 	font-family: Verdana, Arial Black;
-	border: 2px dotted whitesmoke;
+	border: 5px dotted whitesmoke;
+	padding: 1em;
 }
 
 p {
