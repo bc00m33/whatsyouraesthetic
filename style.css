@@ -23,6 +23,6 @@ p {
 }
 #container {
 	margin: 0 auto;
-	width: 50%;
+	width: fit-content;
 	text-align: center;
 }
